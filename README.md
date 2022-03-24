@@ -1,2 +1,2 @@
 # rock-paper-scissors-lizard-spock
-A fun game to pplay in python 
+A fun game to play in python 
